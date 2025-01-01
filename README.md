@@ -1,4 +1,6 @@
 ## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/dev-manik-mia?theme=light&font=Risque)
+
 
 <!--
 **manik-besnik/manik-besnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
