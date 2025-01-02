@@ -21,7 +21,7 @@ I love solving programming challenges to improve my problem-solving skills. Here
 - PHP, Laravel, Adonis.js, Node.js, ExpressJS, Python
 
 ### Databases
-- MySQL, SQLite
+- MySQL, SQLite, MongoDB
 
 ### Others
 - Docker, Redis, AWS (Mail Sending), Chrome Extensions, JavaFX
