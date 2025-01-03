@@ -15,7 +15,7 @@ I love solving programming challenges to improve my problem-solving skills. Here
 
 ### Frontend
 - HTML, CSS, Bootstrap, TailwindCSS
-- JavaScript, jQuery, Vue.js, React.js,NextJS, Pinia (Redux, Redux Toolkit, RTK Query)
+- JavaScript, jQuery, Vue.js, React.js, NextJS, InertiaJS (Redux, Redux Toolkit, RTK Query, Pinia)
 
 ### Backend
 - PHP, Laravel, Adonis.js, Node.js, ExpressJS, Python
