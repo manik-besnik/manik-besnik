@@ -65,7 +65,7 @@ I love solving programming challenges to improve my problem-solving skills. Here
 ## 🌐 Let's Connect
 - 📧 **Email**: [manikmia.dev@gmail.com](mailto:manikmia.dev@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/dev-manik-mia](https://linkedin.com/in/dev-manik-mia)
-- 🐦 **Twitter**: [@DevManikmia](https://x.com/DevManikmia))
+- 🐦 **Twitter**: [@DevManikmia](https://x.com/DevManikmia)
 
 ---
 
