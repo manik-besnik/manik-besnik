@@ -31,7 +31,7 @@ State Management: `Redux`, `RTK Query`, `Pinia`
 `MySQL` · `SQLite` · `MongoDB` · `Redis` · `Docker` · `AWS` (SES, S3)
 
 ### 🔹 Others
-`Chrome Extensions` · `JavaFX` · `Git` · `RESTful APIs` · `MVC Architecture`
+`Chrome Extensions` · `JavaFX` · `Git` · `RESTful APIs` · `MVC Architecture` · `Docker` · `CI/CD` · `Github Actions`
 
 ---
 
