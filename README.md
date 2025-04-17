@@ -1,72 +1,96 @@
-# Hi there 👋
+<!-- Animated name using SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Manik+Mia+%F0%9F%92%BB;Software+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub profile! I'm **Manik Mia**, a passionate software developer with expertise in building high-quality applications. Here's a quick overview of my profile:
+---
+
+Welcome to my GitHub profile! I'm **Manik Mia**, a passionate software developer with a love for clean code, elegant UIs, and scalable backends. I believe in constant learning, collaborative growth, and creating products that make lives better.
 
 ---
 
 ## 🌟 LeetCode Stats
-I love solving programming challenges to improve my problem-solving skills. Here's my LeetCode progress:
+
+I regularly solve coding challenges to sharpen my algorithmic thinking and problem-solving abilities.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dev-manik-mia?theme=light&font=Risque)
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Toolbox
 
-### Frontend
-- HTML, CSS, Bootstrap, TailwindCSS
-- JavaScript, Typescript, jQuery, Vue.js, React.js, NextJS, InertiaJS (Redux, Redux Toolkit, RTK Query, Pinia)
+### 🔹 Frontend
+`HTML` · `CSS` · `Bootstrap` · `TailwindCSS`  
+`JavaScript` · `TypeScript` · `jQuery` · `Vue.js` · `React.js` · `Next.js` · `Inertia.js`  
+State Management: `Redux`, `RTK Query`, `Pinia`
 
-### Backend
-- PHP, Laravel, Adonis.js, Node.js, ExpressJS, Python
+### 🔹 Backend
+`PHP` · `Laravel` · `AdonisJS` · `Node.js` · `Express.js` · `Python`
 
-### Databases
-- MySQL, SQLite, MongoDB
+### 🔹 Database & Infra
+`MySQL` · `SQLite` · `MongoDB` · `Redis` · `Docker` · `AWS` (SES, S3)
 
-### Others
-- Docker, Redis, AWS (Mail Sending), Chrome Extensions, JavaFX
+### 🔹 Others
+`Chrome Extensions` · `JavaFX` · `Git` · `RESTful APIs` · `MVC Architecture`
 
 ---
 
-## 💼 Professional Experience
-- **4+ years of experience** in Laravel, PHP, MySQL, HTML, CSS, JavaScript, and jQuery.
-- Developed and managed **Doplac CRM** modules:
-  - Email Marketing, Cold Outreach, Team Inbox, Funnel Builder
-  - CMS & CMS Builder, Sub Account Subscription Management
-  - Team Member Management, Client Pipeline Contacts, Webhooks, and more.
-- Solved **problems on LeetCode** to sharpen problem-solving skills.
+## 💼 Experience Snapshot
+
+- 4+ years in software development (Laravel, React, MySQL, etc.)
+- Built & maintained **Doplac CRM** – modules like:
+  - Email Marketing, Funnel Builder, Cold Outreach, CMS Builder
+  - Team Collaboration, Webhooks, Client Pipelines & more.
+- Skilled in developing production-grade applications from scratch.
+- Active LeetCode problem solver: 225+ problems solved.
 
 ---
 
 ## 🌐 Notable Projects
 
-1. **[Steel Bazar](https://steel-bazar.com)** - E-commerce Platform  
-2. **[EPEC](https://epec.com.bd)** - Steel Structure Website  
-3. **[Boisodai](https://boisodai.com)** - Book Selling E-commerce  
-4. **[MakeTop](https://maketop.me)** - Social Promotional Application  
-5. **[Hotovaga](https://hotovaga.com)** - Blog Application  
+| Project        | Description |
+|----------------|-------------|
+| [Steel Bazar](https://steel-bazar.com) | Full-stack E-commerce Platform |
+| [EPEC](https://epec.com.bd) | Corporate website for steel solutions |
+| [Boisodai](https://boisodai.com) | Online book selling e-commerce |
+| [MakeTop](https://maketop.me) | Social media boosting & promotion tool |
+| [Hotovaga](https://hotovaga.com) | Modern blogging platform |
 
 ---
 
-## 🚀 Current Interests
-- **Building with Flutter**: Exploring Flutter for desktop application development.
-- **Time Tracking Applications**: We are developing a desktop app with project/task management, time tracking, and screenshot features.
-- **Mobile Reminder Apps**: Integrating SQLite, notifications, and custom reminders.
+## 🚧 Currently Building
+
+- 🚀 A **time tracking desktop app** with screenshot, task, and project features.
+- 📱 A **mobile reminder app** with SQLite storage & custom notifications.
+- 🎯 Experimenting with **Flutter for cross-platform apps**.
 
 ---
 
-## 🎯 Career Goals
-- Continue improving my **problem-solving abilities**.
-- Build efficient and scalable systems using **modern technologies**.
-- Learn and grow in **AI/ML-powered applications** and **DevOps workflows**.
+## 👨‍💻 How I Work
+
+- I love to **learn by building**—nothing beats solving real-world problems.
+- I believe in **clean, readable code** and **user-centric design**.
+- Strong advocate of **asynchronous workflows**, **queue-based processing**, and **performance optimization**.
 
 ---
 
-## 🌐 Let's Connect
-- 📧 **Email**: [manikmia.dev@gmail.com](mailto:manikmia.dev@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/dev-manik-mia](https://linkedin.com/in/dev-manik-mia)
-- 🐦 **Twitter**: [@DevManikmia](https://x.com/DevManikmia)
+## 📚 Learning Interests
+
+- 🧠 Artificial Intelligence & Machine Learning
+- 🔒 Secure API development & OAuth flows
+- 🐳 DevOps (CI/CD, Docker Swarm, Kubernetes)
+- 📲 Cross-platform apps with Flutter
 
 ---
 
-Thanks for stopping by! 😊 Feel free to reach out or collaborate on exciting projects.
+## 💬 Let’s Connect!
+
+- 📧 **Email**: [manikmia.dev@gmail.com](mailto:manikmia.dev@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/dev-manik-mia](https://linkedin.com/in/dev-manik-mia)  
+- 🐦 **Twitter/X**: [@DevManikmia](https://x.com/DevManikmia)
+
+---
+
+### 🙌 Thanks for visiting!
+Feel free to **star, fork, or collaborate** on interesting repositories. I’m always up for working on cool projects or just chatting about tech!
+
