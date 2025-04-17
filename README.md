@@ -21,11 +21,11 @@ I regularly solve coding challenges to sharpen my algorithmic thinking and probl
 
 ### 🔹 Frontend
 `HTML` · `CSS` · `Bootstrap` · `TailwindCSS`  
-`JavaScript` · `TypeScript` · `jQuery` · `Vue.js` · `React.js` · `Next.js` · `Inertia.js`  
+`JavaScript` · `TypeScript` · `jQuery` · `Vue.js` · `React.js` · `Next.js` · `Inertia.js`  · `Liveware`  
 State Management: `Redux`, `RTK Query`, `Pinia`
 
 ### 🔹 Backend
-`PHP` · `Laravel` · `AdonisJS` · `Node.js` · `Express.js` · `Python`
+`PHP` · `Laravel` · `AdonisJS` · `Node.js` · `Express.js` · `Python` · `Golang`
 
 ### 🔹 Database & Infra
 `MySQL` · `SQLite` · `MongoDB` · `Redis` · `Docker` · `AWS` (SES, S3)
@@ -37,12 +37,36 @@ State Management: `Redux`, `RTK Query`, `Pinia`
 
 ## 💼 Experience Snapshot
 
-- 4+ years in software development (Laravel, React, MySQL, etc.)
-- Built & maintained **Doplac CRM** – modules like:
-  - Email Marketing, Funnel Builder, Cold Outreach, CMS Builder
-  - Team Collaboration, Webhooks, Client Pipelines & more.
-- Skilled in developing production-grade applications from scratch.
-- Active LeetCode problem solver: 225+ problems solved.
+🧠 **Full-Stack Software Engineer** with over **4 years of experience** developing SaaS platforms, CRM systems, and e-commerce applications.
+
+🔧 **Tech Stack Expertise**: Laravel, React, Vue, MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, TailwindCSS, Docker, AWS (EC2, S3), GitHub Actions, OpenTelemetry.
+
+🚀 **Built and maintained a multi-module SaaS CRM platform**:
+- Developed scalable modules like Email Marketing, Funnel Builder, Cold Outreach, Team Inbox, and CMS Builder.
+- Engineered a granular permission-based team and sub-account management system.
+- Implemented Webhooks, background job processing with queues, and optimized large-scale email campaigns with SMTP rotation.
+- Boosted performance by restructuring queue systems and optimizing database queries, significantly reducing bottlenecks.
+
+🏢 **Worked on enterprise-grade applications**:
+- Built a financial management tool (ReactJS + Redux) with real-time reporting and secure auth.
+- Developed a comprehensive project management system using Laravel and React.
+- Created a secure eCommerce platform with OTP-based authentication and modern UI (Next.js).
+
+🛒 **Developed large-scale eCommerce platforms**:
+- Built a multi-vendor book selling platform with secure payments, vendor dashboards, and advanced filtering.
+- Launched a steel product eCommerce system with inventory/order workflows.
+- Developed a corporate website with responsive design, interactive portfolios, and brand-focused layout.
+
+🧾 **Created a Passport OCR microservice** using Python + EasyOCR to extract structured data from scanned documents, improving accuracy by 15% with preprocessing.
+
+💡 **Experienced in CI/CD**, Dockerized development, and cloud-native deployments (AWS EC2, S3).
+
+📈 Strong understanding of **design patterns**, **SOLID principles**, **DRY methodology**, and scalable system architecture.
+
+🧪 Proficient in building **REST APIs**, **GraphQL endpoints**, and handling **real-time data processing** via WebSocket and queues.
+
+🧩 Built **10+ real-world applications** across finance, eCommerce, marketing automation, and CRM—delivering real business value and innovation.
+
 
 ---
 
@@ -50,11 +74,13 @@ State Management: `Redux`, `RTK Query`, `Pinia`
 
 | Project        | Description |
 |----------------|-------------|
+| [Doplac CRM](https://app.doplac.com) | Saas CRM |
 | [Steel Bazar](https://steel-bazar.com) | Full-stack E-commerce Platform |
 | [EPEC](https://epec.com.bd) | Corporate website for steel solutions |
 | [Boisodai](https://boisodai.com) | Online book selling e-commerce |
 | [MakeTop](https://maketop.me) | Social media boosting & promotion tool |
 | [Hotovaga](https://hotovaga.com) | Modern blogging platform |
+| [Dubaievisaservice]([https://dubaievisaservice.com]) | Evisa Service |
 
 ---
 
