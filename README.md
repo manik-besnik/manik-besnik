@@ -25,7 +25,7 @@ I regularly solve coding challenges to sharpen my algorithmic thinking and probl
 State Management: `Redux`, `RTK Query`, `Pinia`
 
 ### 🔹 Backend
-`PHP` · `Laravel` · `AdonisJS` · `Node.js` · `Express.js` · `Python` · `Golang`
+`PHP` · `Python` · `Golang` · `TypeScript` · `Laravel` · `AdonisJS` · `Node.js` · `Express.js`
 
 ### 🔹 Database & Infra
 `MySQL` · `SQLite` · `MongoDB` · `Redis` · `Docker` · `AWS` (SES, S3)
